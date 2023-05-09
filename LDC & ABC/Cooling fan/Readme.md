@@ -1,0 +1,1 @@
+- write a program to control the cooling fan such that , if the temprature is higher than 40c , the fan is operated automatically.
