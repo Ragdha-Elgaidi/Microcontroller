@@ -1,0 +1,2 @@
+- write a program to read the output of 2 sensors connectd to 2 analog input channels 
+- if the reading of the sensor2 is larger than sensor1 , the alarm is initiated.
